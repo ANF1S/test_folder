@@ -4,7 +4,7 @@ from names import nameit
 
 root = Tk()
 root.title('Code Pablo')
-root.title('version 2')
+root.title('version 3')
 root.geometry("500x350")
 
 greet = nameit("LoL")
